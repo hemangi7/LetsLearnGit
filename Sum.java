@@ -5,6 +5,8 @@ public class Sum {
         System.out.println(a+b);
 
         System.out.println("Hi branch");
+
+        System.out.println("Nam branch");
     }
     
 }
